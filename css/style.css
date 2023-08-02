@@ -10,15 +10,17 @@ body{
 }
 
 header h1{
-    font-size: 35px;
+    font-size: 40px;
     margin:20px 0;
 }
 header h2{
-    font-size: 20px;
+    font-size: 17px;
     margin: 0px 0px 40px 0px;
     font-weight: normal;
     font-style: italic;
 }
+
+
 
 main.documentation-page h3{
     margin-top: 40px;
